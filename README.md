@@ -1,0 +1,2 @@
+# CAD-CNN
+[Automated Detection of Coronary Artery Disease Using Different Durations of ECG Segments with Convolutional Neural Network](https://www.researchgate.net/publication/317336647_Automated_Detection_of_Coronary_Artery_Disease_Using_Different_Durations_of_ECG_Segments_with_Convolutional_Neural_Network)非官方实现
