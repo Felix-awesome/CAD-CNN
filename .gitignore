@@ -1,0 +1,4 @@
+#忽略数据目录
+/CAD-CNN/data
+/CAD-CNN/source_data
+*.zip
